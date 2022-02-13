@@ -1,9 +1,13 @@
 # Practica1_CIU
 En esta primera practica de CIU he realizado el juego Pong para dos jugadores en processing. En la pantalla de inicio, podemos elegir entre iniciar el juego (pulsando enter) o ver las instrucciones (pulsando h).
 
-![inicio](https://user-images.githubusercontent.com/72138219/153757330-1f7c2d24-3bdd-4161-8046-64f6cd1fae79.PNG)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72138219/153757330-1f7c2d24-3bdd-4161-8046-64f6cd1fae79.PNG">
+</p>
 
-![help](https://user-images.githubusercontent.com/72138219/153757342-45846564-68d6-4c16-a55e-c921c22aa220.PNG)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72138219/153757342-45846564-68d6-4c16-a55e-c921c22aa220.PNG">
+</p>
 
 Para darle el estilo a las letras, he hecho uso del paquete https://www.dafont.com/es/super-mario-256.font
 
