@@ -12,4 +12,4 @@ Al ganar un jugador, se escucha un sonido y vuelve a la pantalla de inicio mostr
 
 Los sonidos los he descargado en la siguiente página: https://mixkit.co/free-sound-effects/video-game/?page=4
 
-![p1CIU](https://user-images.githubusercontent.com/72138219/153758222-47a0a3d4-3450-4995-9e34-62507291c76c.gif)
+![P1_CIU](https://user-images.githubusercontent.com/72138219/153758503-d0991c00-632b-4cb6-ad68-019f7e804901.gif)
