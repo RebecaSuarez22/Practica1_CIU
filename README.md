@@ -11,3 +11,5 @@ Cuando la pelota rebota, emite un sonido, el cual cambia dependiendo de si rebot
 Al ganar un jugador, se escucha un sonido y vuelve a la pantalla de inicio mostrando el ganador.
 
 Los sonidos los he descargado en la siguiente página: https://mixkit.co/free-sound-effects/video-game/?page=4
+
+![p1CIU](https://user-images.githubusercontent.com/72138219/153758222-47a0a3d4-3450-4995-9e34-62507291c76c.gif)
